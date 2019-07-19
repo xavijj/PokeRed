@@ -11,6 +11,7 @@ html, body {
 .header {
   height: 80px;
   background-color: #FE3E31; /*Red Color*/
+  /* 01000001 01101110 01100100 01110010 01100101 00100000 01001111 01110011 01101111 01110010 01101001 01101111 */
   width: 100%;
   /* Vertical and Horizontal Align */
   display: flex;
